@@ -1,0 +1,56 @@
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+
+Insert into FitnessTrackerSchema.Users(
+                                       UserName,
+                                       Email,
+                                       PasswordHash,
+                                       CreatedAt
+)Values ('Sebi','ChitraFarzini@gmail.com','password3','2025-02-24')
+

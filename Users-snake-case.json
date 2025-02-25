@@ -1,0 +1,122 @@
+[
+  {
+    "user_name": "alice_wonder",
+    "email": "alice.wonder@example.com",
+    "password_hash": "hashedpassword1",
+    "created_at": "2024-02-19T10:00:00"
+  },
+  {
+    "user_name": "bob_builder",
+    "email": "bob.builder@example.com",
+    "password_hash": "hashedpassword2",
+    "created_at": "2024-02-18T14:30:00"
+  },
+  {
+    "user_name": "charlie_brown",
+    "email": "charlie.brown@example.com",
+    "password_hash": "hashedpassword3",
+    "created_at": "2024-02-17T09:15:00"
+  },
+  {
+    "user_name": "daisy_duck",
+    "email": "daisy.duck@example.com",
+    "password_hash": "hashedpassword4",
+    "created_at": "2024-02-16T20:45:00"
+  },
+  {
+    "user_name": "edward_scissorhands",
+    "email": "edward.scissorhands@example.com",
+    "password_hash": "hashedpassword5",
+    "created_at": "2024-02-15T12:00:00"
+  },
+  {
+    "user_name": "fiona_fairy",
+    "email": "fiona.fairy@example.com",
+    "password_hash": "hashedpassword6",
+    "created_at": "2024-02-14T08:25:00"
+  },
+  {
+    "user_name": "george_washington",
+    "email": "george.washington@example.com",
+    "password_hash": "hashedpassword7",
+    "created_at": "2024-02-13T17:40:00"
+  },
+  {
+    "user_name": "hannah_montana",
+    "email": "hannah.montana@example.com",
+    "password_hash": "hashedpassword8",
+    "created_at": "2024-02-12T22:10:00"
+  },
+  {
+    "user_name": "ian_somerhalder",
+    "email": "ian.somerhalder@example.com",
+    "password_hash": "hashedpassword9",
+    "created_at": "2024-02-11T15:55:00"
+  },
+  {
+    "user_name": "jessica_jones",
+    "email": "jessica.jones@example.com",
+    "password_hash": "hashedpassword10",
+    "created_at": "2024-02-10T11:20:00"
+  },
+  {
+    "user_name": "kevin_spacey",
+    "email": "kevin.spacey@example.com",
+    "password_hash": "hashedpassword11",
+    "created_at": "2024-02-09T09:10:00"
+  },
+  {
+    "user_name": "linda_lohan",
+    "email": "linda.lohan@example.com",
+    "password_hash": "hashedpassword12",
+    "created_at": "2024-02-08T13:35:00"
+  },
+  {
+    "user_name": "michael_scott",
+    "email": "michael.scott@example.com",
+    "password_hash": "hashedpassword13",
+    "created_at": "2024-02-07T16:50:00"
+  },
+  {
+    "user_name": "nina_sims",
+    "email": "nina.sims@example.com",
+    "password_hash": "hashedpassword14",
+    "created_at": "2024-02-06T07:05:00"
+  },
+  {
+    "user_name": "oliver_twist",
+    "email": "oliver.twist@example.com",
+    "password_hash": "hashedpassword15",
+    "created_at": "2024-02-05T23:20:00"
+  },
+  {
+    "user_name": "peter_parker",
+    "email": "peter.parker@example.com",
+    "password_hash": "hashedpassword16",
+    "created_at": "2024-02-04T19:15:00"
+  },
+  {
+    "user_name": "quinn_fabray",
+    "email": "quinn.fabray@example.com",
+    "password_hash": "hashedpassword17",
+    "created_at": "2024-02-03T06:45:00"
+  },
+  {
+    "user_name": "ron_weasley",
+    "email": "ron.weasley@example.com",
+    "password_hash": "hashedpassword18",
+    "created_at": "2024-02-02T14:55:00"
+  },
+  {
+    "user_name": "samantha_smith",
+    "email": "samantha.smith@example.com",
+    "password_hash": "hashedpassword19",
+    "created_at": "2024-02-01T12:10:00"
+  },
+  {
+    "user_name": "tom_riddle",
+    "email": "tom.riddle@example.com",
+    "password_hash": "hashedpassword20",
+    "created_at": "2024-01-31T10:30:00"
+  }
+]
